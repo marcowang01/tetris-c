@@ -1,7 +1,6 @@
 # Tetris in C
 
-A simplified version of tetris in C
-
+A simplified version of tetris in C. Click to see [screenshot](screenshot).
 ### Executing program
 
 * run cmake in root directory to fetch libraries and run tests
