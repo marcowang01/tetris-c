@@ -1,9 +1,4 @@
-Here’s an improved version of your README with a focus on clarity, formatting, and the fact that it's a clone of Tetris:
-
----
-
-# Tetris in C
-
+# Tetris Clone
 A simplified clone of Tetris, implemented in C as a school project. This version features basic gameplay mechanics and controls, allowing you to rotate, move, and drop Tetriminos as they fall. 
 
 ![Screenshot of Tetris in C](https://github.com/marcowang01/Tetris_in_C/blob/master/screenshot.png?raw=true)
