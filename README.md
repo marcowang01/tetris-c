@@ -1,5 +1,5 @@
 # Tetris Clone
-A simplified clone of Tetris, implemented in C as a school project. This version features basic gameplay mechanics and controls, allowing you to rotate, move, and drop Tetriminos as they fall. 
+A simplified clone of Tetris, implemented in C++. This version features basic gameplay mechanics and controls, allowing you to rotate, move, and drop Tetris pieces as they fall. The difficulty of the game will also increase as more lines are cleared.
 
 ![Screenshot of Tetris in C](https://github.com/marcowang01/Tetris_in_C/blob/master/screenshot.png?raw=true)
 
